@@ -1,2 +1,1 @@
-# M_shell
-refonte de notre minishell 42 perpignan
+The primary goal is to create a functional shell that can interpret and execute user commands, handle built-in commands, and manage process creation and signal handling. This project helps students understand system calls, process management, and command parsing, providing a deeper insight into how a Unix shell operates.
